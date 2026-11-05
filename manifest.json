@@ -1,0 +1,16 @@
+{
+  "name": "MR Engenharia - Controle de Obras",
+  "short_name": "MR Obras",
+  "description": "Controle de materiais, equipamentos e mão de obra das obras da MR Engenharia",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFFFF",
+  "theme_color": "#B71C1C",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "img/icone-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "img/icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
